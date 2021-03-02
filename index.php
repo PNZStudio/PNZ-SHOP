@@ -38,7 +38,7 @@
 
     </div>
     </nav>
-
+    <img src="/img/banner.jpg" width="100%">
     <div class="container mt-3">
         <div class="row">
             <div class="col-sm-4">
