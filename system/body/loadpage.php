@@ -11,7 +11,8 @@ $pages = array(
     "profile",
     "cart",
     "auth",
-    "logout"
+    "logout",
+    "backend"
 );
 
 if(isset($_GET['page'])){
